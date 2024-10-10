@@ -1,5 +1,6 @@
 //TODO: add 'player' as name if there is no name entered ✅
 //TODO: make the money do something - new card without losing += 10, start with: 50, win blackjack += 500, lose = 0
+//TODO: Save the amount of wins and losses so Player can keep track of their stats
 
 
 //*Let's name our player

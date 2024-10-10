@@ -3,9 +3,9 @@
 Ever wanted to play Blackjack online? Well now you can!
 
 Here lies a game where randomness decides your fate. Will you get the Black Jack or will you forever wallow in your shame? 
-
-Link to project: https://blackjack-card.netlify.app/
-
+```html
+Link to project: <link href="https://blackjack-card.netlify.app/" target=_blank>
+```
 
 ## How It's Made:
 Tech used: HTML, CSS, JavaScript

@@ -10,7 +10,7 @@ Link to project: https://blackjack-card.netlify.app/
 ## How It's Made:
 Tech used: HTML, CSS, JavaScript
 
-`//write more about project here`
+This is a simple yet engaging Blackjack game built using HTML, CSS, and JavaScript. The game allows players to experience the thrill of playing Blackjack in a condensed manner. The project demonstrates key programming concepts such as the single-threaded nature of JavaScript, object-oriented design, and the use of modern array methods.
 
 
 ## Lessons Learned:

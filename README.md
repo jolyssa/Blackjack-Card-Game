@@ -66,7 +66,7 @@ Most importantly, I learned how to debug my code and problem-solve when things d
 Overall, building Blackjack helped me grasp core JavaScript concepts in a fun and practical way!
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at these other examples:
 
 Codewars Solutions: https://github.com/jolyssa/codewars-solutions
 

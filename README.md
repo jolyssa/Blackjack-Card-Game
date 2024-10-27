@@ -1,5 +1,9 @@
 # Blackjack: The Card Game
 
+<p align="center">
+ <img alt="picture of my project, a watered down version of blackjack with a green background" src="https://github.com/user-attachments/assets/b87e4ba6-b699-45a6-b91f-dc1ee9c30a1a"> 
+</p>
+
 Ever wanted to play Blackjack online? Well now you can!
 
 Here lies a game where randomness decides your fate. Will you get the Black Jack or will you forever wallow in your shame? 
